@@ -20,4 +20,4 @@ print(f'Cipher text: {ciphertext}')
 if not plaintext:
     print('Message is corrupted!')
 else:
-    print(f'Plain text: {plaintext}')
+    print(f'Plain text: {plaintext}')
